@@ -2,8 +2,8 @@
 
 A **SysML model** of an AI-driven smart-home energy system that reduces household energy use while
 keeping the residents comfortable. It is designed as a service-oriented **System of Systems** on
-the **Eclipse Arrowhead** framework and modelled in **Eclipse Papyrus**. Course: *Industrial
-Internet of Things / Systems Engineering* (D7065E), Luleå University of Technology, 2025.
+the **Eclipse Arrowhead** framework and modelled in **Eclipse Papyrus**. Course: *IoT Automation*
+(D7065E), Luleå University of Technology, 2025.
 
 **Tools:** SysML · Eclipse Papyrus · Eclipse Arrowhead 5.0 (Service Registry, Orchestration, Authorization)
 
