@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 3 resources" deleteContents="false" description="Delete 3 resources" element1="/EclipseArrowhead-5.0/LocalCloud.png" element2="/EclipseArrowhead-5.0/PRISMA_mocup.png" element3="/EclipseArrowhead-5.0/ServiceOrchesttration.png" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="3" stamp="1747674827136"/>
-</session>

@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Move &apos;build.properties, plugin.xml&apos; to &apos;Files&apos;" description="Move 2 resources to &apos;Files&apos;" destination="Files" element1="build.properties" element2="plugin.xml" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="2" stamp="1754047022094" updateReferences="true"/>
-</session>
